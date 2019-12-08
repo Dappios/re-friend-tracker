@@ -192,7 +192,7 @@ export class GuiModel {
                 {
                     "id": "AddFriendForm",
                     "title": "Friend",
-                    "url": "/activity/:activityKey/friend",
+                    "url": "/activity/:activityKey/friend", 
                     "formFieldList": [
                         {
                             "id":   "activity",
